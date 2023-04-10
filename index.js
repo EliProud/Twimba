@@ -144,7 +144,7 @@ function getFeedHtml() {
                     <i class="fa-solid fa-trash" data-delete="${tweet.uuid}"></i>
                 </span>
                 <span class="tweet-detail">
-                    <i class="fa-regular fa-reply" data-reply-input="${tweet.uuid}"></i>
+                    <i class="fa-solid fa-reply" data-reply-input="${tweet.uuid}"></i>
                 </span>
             </div>
         </div>
